@@ -9,7 +9,7 @@
 <div class="row mb-4">
     <span class="text-center">
         Tiếp cận 40,000+ tin tuyển dụng việc làm mỗi ngày từ hàng nghìn doanh nghiệp uy tín
-        tại Việt Nam Cộng Hòa
+        tại Việt Nam
     </span>
 </div>
 @include('clients.blocks.searchHeader')
